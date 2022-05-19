@@ -27,6 +27,7 @@ ul {
 footer {
   font-size: 14px;
 }
-th {
-    padding: ;
+table, th, td {
+    border: 1px solid;
+    border-color: black;
 }
